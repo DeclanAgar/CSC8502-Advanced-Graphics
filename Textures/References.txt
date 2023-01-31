@@ -1,0 +1,10 @@
+Textures:
+Grass: https://opengameart.org/node/15615
+Normals were generated using the following tool: http://cpetry.github.io/NormalMap-Online/
+
+Meshes:
+Rock Package: https://assetstore.unity.com/packages/3d/props/exterior/rock-package-118182
+Brig Sloop: https://assetstore.unity.com/packages/3d/vehicles/sea/brig-sloop-sailing-ship-77862
+Ruined Tower: https://assetstore.unity.com/packages/3d/environments/fantasy/ruined-tower-7845
+Round Tower: https://assetstore.unity.com/packages/3d/environments/historic/round-tower-5581
+Spider: https://assetstore.unity.com/packages/3d/characters/animals/insects/fantasy-spider-236418
